@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mein Bewerbungsportrait</title>
+  </head>
+  <body>
+    <h1>Hallo! Ich bin Yaroslav</h1>
+    <p>Ich bewerbe mich als Informatiker Platformentwicklung EFZ.</p>
+    <p>Ich interessiere mich für Computer und das Programmieren.</p>
+    <p>Ich lerne gerade, wie man Websites erstellt :)</p>
+  </body>
+</html>
